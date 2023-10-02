@@ -1,0 +1,88 @@
+{
+  "cantidad": 8,
+  "inicio": 0,
+  "parametros": {},
+  "instrumentos":[
+        {
+            "id": "1",
+            "nombre": "Calibre digital",
+            "descripcion":"Calibre digital ABSOLUTO 150 mm 0.01 mm",
+            "rango": "150 mm",
+            "detalle": "El botón ZERO/ABS permite que la pantalla se fije a cero en cualquier posición del cursor sobre la escala para las mediciones de comparación. Este botón también permitirá el retorno al modo absoluto (ABS) y mostrar la posición verdadera desde el origen",
+            "imagen": "media/calibre.png",
+            "dimension": "media/dimcalibre.png",
+            "precio": 255
+        },
+        {
+            "id": "2",
+            "nombre": "Reloj Comparador",
+            "descripcion": "Reloj Comparador Digital ABSOLUTE 12.7mm 0.01mm ID-SX",
+            "rango": "12,7 mm",
+            "detalle": "Sensor ABS (absoluto) Estos indicadores Digimatic emplean un sensor ABS (absoluto) patentado por Mitutoyo, que permite restaurar el punto de origen, incluso si el instrumento se apagó. Esto elimina la necesidad de restaurar el origen cada vez que el instrumento se enciende. Además, este sensor asegura que no se producen errores de sobrevelocidad, lo que mejora la confiabilidad.",
+            "imagen": "media/comparador.png",
+            "dimension": "media/dimcomparador.png",
+            "precio": 325
+        },
+        {
+            "id": "3",
+            "nombre": "Micrómetro digital",
+            "descripcion": "Micrómetro digital externo 0-25 mm 0,001 mm MDC Lite 293-821-30",
+            "rango": "0-25 mm",
+            "detalle": "Únicamente cuentan con un botón de establecimiento del origen. Equipado con Trinquete para fuerza de medición constante.",
+            "imagen": "media/micrometro.png",
+            "dimension": "media/dimmicrometro.png",
+            "precio": 264
+        },
+        {
+            "id": "4",
+            "nombre": "Nivel lineal",
+            "descripcion": "Nivel de Precisión 200x38x44 con Precisión de 0.05 mm / m",
+            "rango": "0.05 mm / m",
+            "detalle": "Únicamente cuentan con un botón de establecimiento del origen. Equipado con Trinquete para fuerza de medición constante.",
+            "imagen": "media/nivel.png",
+            "dimension": "media/dimnivel.png",
+            "precio": 240
+        },
+        {
+            "id": "5",
+            "nombre": "Micrómetro interno",
+            "descripcion": "Micrómetro interno de tres puntos 100-125 mm 0.005 mm Holtest",
+            "rango": "100-125 mm",
+            "detalle": "Puntas de medición con recubrimiento de titanio para el tipo de tres puntas (para modelos con intervalo mayor a 6mm) proporcionan excelente durabilidad y resistencia al impacto y permiten al instrumento medir hasta el fondo de un agujero ciego.",
+            "imagen": "media/microinterior.png",
+            "dimension": "media/dimmicrointerior.png",
+            "precio": 355
+        },
+        {
+            "id": "6",
+            "nombre": "Calibre de altura",
+            "descripcion": "Medidor de Alturas Digimatic ABSOLUTE 0-12in 0-300mm",
+            "rango": "300 mm",
+            "detalle": "Permite elevación suave por la manivela para ajuste del cursor, que es la misma que la bien establecida estructura del medidor de alturas de doble columna.",
+            "imagen": "media/calibrealtura.png",
+            "dimension": "media/dimcalibrealtura.png",
+            "precio": 322
+        },
+        {
+            "id": "7",
+            "nombre": "Medidor de espesor",
+            "descripcion": "Medidor de Espesor Manual Digital 10 mm 0.01 mm",
+            "rango": "10 mm",
+            "detalle": "Medidores de espesores con indicador pueden medir rápidamente el espesor de productos delgados tales como papel y tela.",
+            "imagen": "media/medidorespesor.png",
+            "dimension": "media/dimmedidorespesor.png",
+            "precio": 350
+        },
+        {
+            "id": "8",
+            "nombre": "Bloques Patrón",
+            "descripcion": "Bloques Patrón en Acero con 32 piezas - 516-968-10",
+            "rango": "32 piezas",
+            "detalle": "Juegos de bloques patrón para satisfacer diversas necesidades de la industria. La selección del mejor juego, o juegos, depende de la exactitud requerida por la aplicación pretendida, el nivel de conveniencia deseado (juegos más grandes ofrecen más posibilidades de combinación) y las condiciones ambientales en la cual ellos son usados.",
+            "imagen": "media/bloques.png",
+            "dimension": "media/dimbloques.png",
+            "precio": 1500
+        }
+    ],
+    "total": 8
+}
